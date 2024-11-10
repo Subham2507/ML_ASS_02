@@ -1,3 +1,6 @@
+## Contents
+
+- `Subham_24928003_Ass02.ipynb`: The main Jupyter Notebook file containing the assignment.
    
 ## Description
 
@@ -25,9 +28,6 @@ The dataset used is the "Tips" dataset, which contains information about restaur
 
 This repository contains a Jupyter Notebook for the second assignment of the Machine Learning course.
 
-## Contents
-
-- `Subham_24928003_Ass02.ipynb`: The main Jupyter Notebook file containing the assignment.
 
 ## Steps
 
